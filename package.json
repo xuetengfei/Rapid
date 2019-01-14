@@ -1,9 +1,9 @@
 {
   "name": "@xuetengfei/rapid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "bin": {
-    "rapid": "index.js"
+    "rapid": "./lib/index.js"
   },
   "keywords": [
     "react"
