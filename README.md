@@ -1,1 +1,1 @@
-# -xtf-Rapid
+# Rapid
