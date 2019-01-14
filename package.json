@@ -1,0 +1,16 @@
+{
+  "name": "@xuetengfei/quick",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "xtf": "./bin/npm.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
