@@ -3,14 +3,15 @@
   "version": "0.0.1",
   "main": "index.js",
   "bin": {
-    "xtf": "./bin/npm.js"
+    "rapid": "index.js"
   },
   "keywords": [
     "react"
   ],
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.19.0"
+    "commander": "^2.19.0",
+    "nodemon": "^1.18.9"
   },
   "repository": {
     "type": "git",
