@@ -1,7 +1,7 @@
 {
   "name": "@xuetengfei/rapid",
   "version": "0.0.2",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "bin": {
     "rapid": "./lib/index.js"
   },
